@@ -1,0 +1,15 @@
+{
+  "originHash" : "6f61486b2d264862d49ef6f96f5520151e7cf3be5572cb3575a3fab41001a7e6",
+  "pins" : [
+    {
+      "identity" : "playhelpers",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rabbit-rabbit-rabbit/PlayHelpers.git",
+      "state" : {
+        "branch" : "font-extensions",
+        "revision" : "ccc627e916a589cb72f759e7623529a19563ec23"
+      }
+    }
+  ],
+  "version" : 3
+}
